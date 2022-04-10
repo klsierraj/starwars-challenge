@@ -93,7 +93,7 @@ const CharacterDetail = ({ visible, id, onCancel }: TCharacterDetail) => {
     onCancel={handleCancel}
   >
 
-    <Row  gutter={20}>
+    <Row   gutter={20}>
       <Col span={6}>
         <p>
           Specie:{" "}
