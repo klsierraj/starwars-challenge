@@ -14,7 +14,7 @@ const CardCharacter = ({
 }: TCardCharacter) => {
   return (
     <Card style={{
-    margin:"7px"
+    margin:"6px"
     }}  hoverable>
       <Meta
         title={name}
